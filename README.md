@@ -1,2 +1,2 @@
-# Sistemas-distribu-dos---SmartLab
+# Sistemas Distribuidos
 Algoritmo para completar missões baseadas em tags ArUco.
